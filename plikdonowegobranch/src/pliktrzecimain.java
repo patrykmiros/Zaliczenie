@@ -5,5 +5,6 @@ public class pliktrzecimain {
 
 
         System.out.println("costamwpisalem");
+        System.out.println("zmiana w pliku pierwsza");
     }
 }
